@@ -3,8 +3,5 @@
    <description url="http://eclipsetools.iritgo.de/">
       Iritgo Technologies Eclipse Tools Update Site
    </description>
-   <feature url="features/de.iritgo.eclipse.tools_1.0.0.jar" id="de.iritgo.eclipse.tools" version="1.0.0">
-      <category name="de.iritgo.eclipse.tools"/>
-   </feature>
-   <category-def name="de.iritgo.eclipse.tools" label="Iritgo Eclipse Tools"/>
+   <feature url="features/de.iritgo.eclipse.tools_1.0.0.jar" id="de.iritgo.eclipse.tools" version="1.0.0"/>
 </site>
