@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description url="http://eclipsetools.iritgo.de/">
+   <description name="Iritgo Eclipse Tools" url="http://eclipsetools.iritgo.de/">
       Iritgo Technologies Eclipse Tools Update Site
    </description>
    <feature url="features/de.iritgo.eclipse.tools_1.0.4.jar" id="de.iritgo.eclipse.tools" version="1.0.4">
